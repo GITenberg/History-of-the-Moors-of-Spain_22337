@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36033
     wikipedia: http://en.wikipedia.org/wiki/Jean-Pierre_Claris_de_Florian
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22337#History-of-the-Moors-of-Spain
 gutenberg_issued: '2007-08-16'
 gutenberg_type: Text
 identifiers:
